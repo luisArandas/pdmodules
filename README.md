@@ -1,2 +1,2 @@
 # pdmodules
-Pure Data Modules
+Pure Data Modules by Joana Rodrigues
